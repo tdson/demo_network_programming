@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/UDP/ClientNumber.java=UTF-8
+encoding//src/chatClientServer/Client.java=UTF-8
+encoding//src/chatClientServer/Server.java=UTF-8
+encoding//src/chatroom_udp/ConnectionThread.java=UTF-8
+encoding//src/chatroom_udp/Login.java=UTF-8
+encoding//src/chatroom_udp/Room.java=UTF-8
+encoding//src/chatroom_udp/Server.java=UTF-8
+encoding//src/demo/TCPClientString.java=UTF-8
+encoding//src/demo/TCPSeverString.java=UTF-8
+encoding//src/lanChat/ClientSever/Client.java=UTF-8
+encoding//src/lanChat/ClientSever/Server.java=UTF-8
+encoding//src/lanChat/ClientSever/Windows.java=UTF-8
